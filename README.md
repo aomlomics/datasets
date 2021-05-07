@@ -13,6 +13,7 @@ Sterivex extraction testing      | sterivex   | Thompson | DNA      | metabarcod
 SASe eDNA metabarcoding          | sase       | Thompson | DNA      | metabarcoding               |             | 
 SEAMAP EBFM eDNA                 | seamap     | Kelble   | DNA      | metabarcoding               |             | 
 GOM cetacean conservation omics  | cetacean   | Rosel    |          | metabarcoding               |             | 
+
 <!-- ADD NEW PROJECTS BELOW AND MOVE TO UNCOMMENTED PART OF TABLE
                                  |            |          |          |                             |             | 
                                  |            |          |          |                             |             | 
