@@ -1,4 +1,5 @@
 # _config.yaml - formatting for https://aomlomics.github.io/datasets
 
 theme: minima
+name: datasets
 title: null
