@@ -2,4 +2,7 @@
 
 theme: minima
 name: datasets
-title: null
+
+defaults:
+  -
+    title: null
