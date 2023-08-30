@@ -1,6 +1,6 @@
 # Reference Databases
 
-The table below lists reference databases (fasta+taxonomy or classifier) used by the AOML 'Omics program.
+The table below lists reference databases (fasta+taxonomy or classifier) used by the AOML 'Omics program. All databases listed here have been tested with Qiime2-2023.2 to Qiime2-2023.5.
 
 Title                                         | Type           | Target                                         | Number of sequences    | URL
 --------------------------------------------- | -------------- | --------------------------------------------- | ---------------------- | -----
