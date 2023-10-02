@@ -13,7 +13,7 @@ Sterivex extraction testing      | sterivex   | Thompson | DNA      | metabarcod
 SASe eDNA metabarcoding          | sase       | Thompson | DNA      | metabarcoding               | n/a         | n/a
 SEAMAP EBFM eDNA                 | seamap     | Kelble   | DNA      | metabarcoding               | n/a         | n/a
 GOM cetacean conservation omics  | cetacean   | Rosel    | DNA      | metabarcoding               | n/a         | n/a
-eDNA from GOM Ecosystems and Carbon Cruise 2021 | gomecc | Thompson | DNA | metabarcoding  |  502  | [PRJNA887898](https://www.ncbi.nlm.nih.gov/bioproject/887898) | [GBIF](https://www.gbif.org/dataset/9012def0-bd87-48a0-ac9e-e0e78dd37689)
+eDNA from GOM Ecosystems and Carbon Cruise 2021 | gomecc | Thompson | DNA | metabarcoding  |  502  | [PRJNA887898](https://www.ncbi.nlm.nih.gov/bioproject/887898), [GBIF](https://www.gbif.org/dataset/9012def0-bd87-48a0-ac9e-e0e78dd37689)
 
 <!-- ADD NEW PROJECTS BELOW AND MOVE TO UNCOMMENTED PART OF TABLE
 n/a                              | n/a        | n/a      | n/a      | n/a                         | n/a         | n/a
